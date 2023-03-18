@@ -1,16 +1,13 @@
 # flutter_button_disable_sample
 
-A new Flutter project.
+Flutterのボタン有効／無効切り替えのサンプルアプリケーション
 
-## Getting Started
+## 環境
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+$ flutter --version
+Flutter 3.3.1 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 4f9d92fbbd (6 months ago) • 2022-09-06 17:54:53 -0700
+Engine • revision 3efdf03e73
+Tools • Dart 2.18.0 • DevTools 2.15.0
+```
